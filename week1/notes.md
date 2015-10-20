@@ -12,11 +12,6 @@ Timeline
 - 6:35 - 6:50 Advanced JS
 - 6:50 - 7:00 Do for next week
 
-# Today
-- 4 languages
-- Open up [http://is.gd/dlpcomp](http://is.gd/dlpcomp)
-- I'll demo something, then have task for you
-
 # HTML
 ## Examples
 
@@ -208,7 +203,7 @@ write(bigger);
 ```
 
 # jQuery
-## Main example: HTML
+## Main example: HTML (distro code)
 
 ```html
 <div class="row">
