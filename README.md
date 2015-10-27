@@ -1,6 +1,6 @@
 # DLP TTP Comp
 ## Mini-project
-Interested in getting started?
+Interested in getting started with the comp? Here's a small project to set up your development environment and do a little bit of hacking to brush up on your HTML, CSS, and JavaScript skills.
 
 ### Setting up
 First, let's get your development environment set up. Open up [Mac Dev Setup guide](https://github.com/nicolashery/mac-dev-setup). Do the following steps:
