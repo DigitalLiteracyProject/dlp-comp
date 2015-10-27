@@ -36,7 +36,9 @@ _Neel Mehta (neelmehta@college.harvard.edu)_
 ```
 
 ## Challenge
-No distro code
+Write HTML to generate a page like this:
+
+![Simple HTML webpage](img/challenge-html.png)
 
 ## Challenge solution
 
