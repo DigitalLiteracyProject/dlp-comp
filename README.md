@@ -19,5 +19,18 @@ npm install -g yo bower gulp
 
 Grab a copy of the [Atom](http://atom.io/) text editor. I highly recommend it and will be using it for the purposes of this comp.
 
+### Learn
+There are a few key concepts you should understand before you start hacking:
+- **Git**. Try [this interactive introduction to git](https://try.github.io) if unfamiliar.
+- **HTML, CSS, and JavaScript**. There are [useful code snippets](week1/notes.md) in this repo, but you can also try [HTML Dog](http://htmldog.com/) and [JS for Cats](http://jsforcats.com).
+
 ### Hacking time!
 Now that you're set up, here's the fun part: building some missing functionality in our sample flashcard app using your [newfound knowledge of HTML, Bootstrap, and JavaScript](week1/notes.md).
+
+We've created a [sample webapp](https://github.com/hathix/dlp-webapp) for you to build off of. First, you'll need to make your own copy of the webapp so you can work with it. On our sample webapp's page, find the _Fork_ button and hit it to "fork" your own copy.
+
+Now get a copy on your own machine. Find the HTTPS clone URL on the page of your fork of the webapp; it should be something like _[https://github.com/](https://github.com/)<YOUR_USERNAME>/dlp-comp.git_. Then run:
+
+```sh
+git clone <URL>
+```
