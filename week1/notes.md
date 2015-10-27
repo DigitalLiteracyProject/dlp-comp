@@ -1,16 +1,7 @@
-# Week 1 speaker notes
-_Neel Mehta, 10/20/15_
+# DLP Term-Time Projects: HTML, CSS, and JavaScript Workshop
+_[http://dlp.io](http://dlp.io), 10/20/15  
 
-Pre-event reminders:
-- Preload [http://pathagram.herokuapp.com](http://pathagram.herokuapp.com)
-
-Timeline
-- 5:40 - 5:50 Intro to DLP, TTPs
-- 5:50 - 6:05 HTML
-- 6:05 - 6:20 Bootstrap
-- 6:20 - 6:35 JS + jQuery
-- 6:35 - 6:50 Advanced JS
-- 6:50 - 7:00 Do for next week
+Neel Mehta (neelmehta@college.harvard.edu)_
 
 # HTML
 ## Examples
