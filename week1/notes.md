@@ -1,7 +1,7 @@
 # DLP Term-Time Projects: HTML, CSS, and JavaScript Workshop
-_[http://dlp.io](http://dlp.io), 10/20/15  
+*[http://dlp.io](http://dlp.io), 10/20/15  
 
-Neel Mehta (neelmehta@college.harvard.edu)_
+Neel Mehta (neelmehta@college.harvard.edu)*
 
 # HTML
 ## Examples
