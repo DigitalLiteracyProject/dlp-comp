@@ -3,7 +3,13 @@ _[http://dlp.io](http://dlp.io), 10/20/15_
 
 _Neel Mehta (neelmehta@college.harvard.edu)_
 
-# Follow along
+Sample code from the Digital Literacy Project's ([http://dlp.io](http://dlp.io)) first Term-Time Project comp meeting, in which we learned:
+- HTML
+- Styling with [Bootstrap](https://getbootstrap.com)
+- JavaScript
+- jQuery
+- ES6
+
 Try all these code snippets and more at [http://is.gd/dlpcomp](http://is.gd/dlpcomp).
 
 # HTML
