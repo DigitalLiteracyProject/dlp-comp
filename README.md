@@ -34,3 +34,19 @@ Now get a copy on your own machine. Find the HTTPS clone URL on the page of your
 ```sh
 git clone <URL>
 ```
+
+Now that you have your copy of the app, let's get it up and running:
+
+```sh
+npm install
+bower install
+gulp serve
+```
+
+Upon entering that last command, a very basic webpage should open up in your default browser -- that's your app! If something goes wrong, you might have missed a prior step.
+
+Open up your app in Atom:
+
+```sh
+atom .
+```
