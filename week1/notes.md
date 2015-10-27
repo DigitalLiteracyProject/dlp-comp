@@ -172,14 +172,17 @@ Now add Bootstrap styling to this code so that the page looks like this:
 </div>
 ```
 
-# Basic JS
+# Basic JavaScript
+**HTML**
 
 ```html
 <p class="lead" id="output"></p>
 ```
 
+**JavaScript**
+
 ```js
-// utility printing function
+// utility printing function (don't worry about this)
 let write = (text) => {
   let message = $("<p>").html(text + "");
   $("#output").append(message);
@@ -190,7 +193,7 @@ let number = 5;
 number = number * 3;
 write(number);
 
-// writing functions
+// creating functions
 let writeExcited = (text) => {
     write(text + "!!!")
 };
@@ -204,7 +207,8 @@ write(bigger);
 ```
 
 # jQuery
-## Main example: HTML (distro code)
+## Example
+**HTML**
 
 ```html
 <div class="row">
@@ -227,8 +231,7 @@ write(bigger);
 </div>
 ```
 
-## Main example: JS
-### First run
+**JavaScript (first run)**
 
 ```js
 let count = 0;
@@ -252,7 +255,7 @@ $("#clear").on("click", () => {
 });
 ```
 
-### Using functions
+**Using functions (new JavaScript)**
 
 ```js
 let count = 0;
@@ -277,7 +280,7 @@ $("#clear").on("click", () => {
 });
 ```
 
-### Additional error checking
+**Additional error checking (new JavaScript)**
 
 ```js
 let count = 0;
@@ -303,8 +306,8 @@ $("#clear").on("click", () => {
 });
 ```
 
-# Advanced JS and ES6
-HTML for this section:
+# Advanced JavaScript and ES6
+**HTML for all examples in this section**
 
 ```html
 <p class="lead" id="output"></p>
