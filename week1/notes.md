@@ -255,7 +255,7 @@ $("#clear").on("click", () => {
 });
 ```
 
-**Using functions (new JavaScript)**
+**New JavaScript (using functions)**
 
 ```js
 let count = 0;
@@ -280,7 +280,7 @@ $("#clear").on("click", () => {
 });
 ```
 
-**Additional error checking (new JavaScript)**
+**New JavaScript (additional error checking)**
 
 ```js
 let count = 0;
