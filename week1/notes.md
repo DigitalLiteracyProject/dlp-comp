@@ -3,6 +3,9 @@ _[http://dlp.io](http://dlp.io), 10/20/15_
 
 _Neel Mehta (neelmehta@college.harvard.edu)_
 
+# Follow along
+Try all these code snippets and more at [http://is.gd/dlpcomp](http://is.gd/dlpcomp).
+
 # HTML
 ## Examples
 
@@ -125,6 +128,7 @@ Write HTML to generate a page like this:
 ```
 
 ## Challenge
+This is the HTML we generated for the previous challenge:
 
 ```html
 <h1>Favorite distractions</h1>
@@ -140,6 +144,10 @@ Write HTML to generate a page like this:
   <button>Submit</button>
 </p>
 ```
+
+Now add Bootstrap styling to this code so that the page looks like this:
+
+![Simple Bootstrap-powered webpage](img/challenge-bootstrap.png)
 
 ## Challenge solution
 
