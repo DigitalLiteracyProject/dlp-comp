@@ -5,7 +5,7 @@ Interested in getting started with the comp? Here's a small project where you'll
 - Get familiar with Git, the collaboration software we'll use for our projects
 - Learn how to use the [Atom](https://atom.io) text editor
 
-And, of course, by completing the project, you'll be entered into the comp!
+And, of course, by completing the project, you'll be entered into the comp and put into a project team!
 
 ### Setting up
 First, let's get your development environment set up. Open up this [Mac Dev Setup guide](https://github.com/nicolashery/mac-dev-setup). Do the following steps:
