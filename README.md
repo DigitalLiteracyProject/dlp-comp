@@ -56,7 +56,7 @@ bower install
 gulp serve
 ```
 
-Upon entering that last command, a very simple webpage like the below will open in a browser; that's you app!
+Upon entering that last command, a very simple webpage like the below will open in a browser; that's your app!
 
 ![Sample webapp before modifications](img/sample-webapp-before.png)
 
