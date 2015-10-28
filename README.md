@@ -22,7 +22,7 @@ That'll get you some of the core tools you'll need for web development, includin
 npm install -g yo bower gulp
 ```
 
-Grab a copy of the [Atom](http://atom.io/) text editor. I highly recommend it and will be using it for the purposes of this comp.
+Grab a copy of the [Atom](http://atom.io/) text editor. It's similar to the famous Sublime Text, but it's very well-suited for web development and has a huge and fast-growing plugin community. I highly recommend it and will be using it for the purposes of this comp.
 
 ### Getting started with Git
 Now you'll learn how to use Git and GitHub. If you aren't already familiar with Git, try this [this interactive Git tutorial](https://try.github.io).
@@ -33,7 +33,9 @@ We've created a [sample GitHub repository](https://github.com/hathix/dlp-webapp)
 - Issues
 - File browser
 
-Now make your own copy of the repository (or "repo") so you can work with it. On our repo's homepage, use the _Fork_ button to "fork" our repo, making your own version of it that you can work with.
+Now make your own copy of the repository (or "repo") so you can work with it. [This forking and cloning tutorial](https://help.github.com/articles/fork-a-repo/#keep-your-fork-synced) will be helpful; do everything up to but not including "Step 3: Configure Git to sync your fork..."
+
+On our repo's homepage, use the _Fork_ button to "fork" our repo, making your own version of it that you can work with.
 
 Now you need to get your own repo on your computer so you can actually edit it. Find the HTTPS clone URL on your repo's page; it should be something like `https://github.com/<YOUR_USERNAME>/dlp-comp.git`.
 
@@ -42,6 +44,8 @@ Now you need to get your own repo on your computer so you can actually edit it. 
 ```sh
 git clone <URL>
 ```
+
+to get your repo on your machine.
 
 #### Running the app
 Now that you have your copy of the repo, let's get it up and running:
@@ -92,3 +96,39 @@ Open up your app in Atom:
 ```sh
 atom .
 ```
+
+You'll see a file browser on the left and a file editing pane in the center of the window. Pretty standard interface for a text editor! If you've ever used Sublime Text, Atom is pretty similar.
+
+Let's edit `index.html`, the main page of the app. That file might be buried within several folders, so you can use the Fuzzy File Finder to find it. Hit `Cmd+T` and search for `index.html`; hit Enter once you've found what you're looking for and it'll be opened up in the file editor.
+
+There's a lot of code in `index.html`, but find this snippet:
+
+```html
+<p class="lead">
+    Hello, world! My name is
+    <strong>[YOUR NAME HERE]</strong> and my email is
+    <strong>[YOUR EMAIL HERE]</strong>.
+</p>
+```
+
+This is good ol' HTML that you've learned about! Insert your name and email, then save the file and reload the webpage. You should see this new information on the page!
+
+#### Submitting
+You're done your (very brief) coding part of the project! Now it's time to submit your project and be officially entered into the comp.
+
+First, add, commit, and push your changes to GitHub:
+
+```sh
+git add -A
+git commit -m "Added my name"
+git push
+```
+
+You might need to enter your GitHub username and password at some point here.
+
+Now return to your repo's GitHub page. You should see your latest commit message, "Added my name", and you should see that your repo is one commit ahead of the master branch.
+
+To officially submit, [follow this guide to create a pull request](https://help.github.com/articles/using-pull-requests/).
+
+### You're done!
+Once you've submitted your pull request, you're done the mini-project! You can await an email from us welcoming you to the comp.
