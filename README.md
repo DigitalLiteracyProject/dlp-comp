@@ -131,4 +131,4 @@ Now return to your repo's GitHub page. You should see your latest commit message
 To officially submit, [follow this guide to create a pull request](https://help.github.com/articles/using-pull-requests/).
 
 ### You're done!
-Once you've submitted your pull request, you're done the mini-project! You can await an email from us welcoming you to the comp.
+Once you've submitted your pull request, you're done the mini-project! You'll be officially entered into the comp class and, soon, placed on a TTP team. Await a confirmation email from us!
