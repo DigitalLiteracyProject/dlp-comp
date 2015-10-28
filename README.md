@@ -1,6 +1,11 @@
 # DLP TTP Comp
 ## Mini-project
-Interested in getting started with the comp? Here's a small project to set up your development environment and get familiar with Git, the collaboration software we'll use for our projects.
+Interested in getting started with the comp? Here's a small project where you'll:
+- Set up your development environment for web development with Node.js
+- Get familiar with Git, the collaboration software we'll use for our projects
+- Learn how to use the [Atom](https://atom.io) text editor
+
+And, of course, by completing the project, you'll be entered into the comp!
 
 ### Setting up
 First, let's get your development environment set up. Open up this [Mac Dev Setup guide](https://github.com/nicolashery/mac-dev-setup). Do the following steps:
@@ -78,6 +83,9 @@ Fresh-Prince:dlp-webapp neel$ gulp serve
 ```
 
 If something goes wrong, you might have missed a prior step. Go back and try again!
+
+#### Editing your app
+The app looks good, but, as you might imagine, you need to insert your name!
 
 Open up your app in Atom:
 
