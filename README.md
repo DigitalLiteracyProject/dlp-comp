@@ -37,7 +37,7 @@ Now make your own copy of the repository (or "repo") so you can work with it. [T
 
 On our repo's homepage, use the _Fork_ button to "fork" our repo, making your own version of it that you can work with.
 
-Now you need to get your own repo on your computer so you can actually edit it. Find the HTTPS clone URL on your repo's page; it should be something like `https://github.com/<YOUR_USERNAME>/dlp-comp.git`.
+Now you need to get your own repo on your computer so you can actually edit it. Find the HTTPS clone URL on your repo's page; it should be something like `https://github.com/<YOUR_USERNAME>/dlp-webapp.git`.
 
  Then run:
 
@@ -48,7 +48,7 @@ git clone <URL>
 to get your repo on your machine.
 
 #### Running the app
-Now that you have your copy of the repo, let's get it up and running:
+Now that you have your copy of the repo, let's get it up and running. `cd` into the `dlp-webapp` directory you just created and run:
 
 ```sh
 npm install
